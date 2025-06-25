@@ -140,3 +140,4 @@ emotion_classifier_model.pkl: Pre-trained machine learning model.
 label_encoder.pkl: Label encoder to map predicted classes to emotion names.
 This web app serves as the final front-end interface for the speech emotion classification system.
 ![image](https://github.com/user-attachments/assets/291ee13c-b449-4819-a9d8-4f652b6116cc)
+app url:https://emotionclassifier-wmnrtfb9i2ugs4fnpsrxrq.streamlit.app/
